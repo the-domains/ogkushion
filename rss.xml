@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OGKUSHION]]></title>
+        <description><![CDATA[OGKUSHION]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 May 2016 20:47:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Original Marijuana Pillow</p>]]></description>
+            <link>undefinedthe-original-marijuana-pillow/index.html</link>
+            <guid isPermaLink="false">0cbbe1bb-ea4d-4127-9f9f-a6a9390937a5</guid>
+            <pubDate>Fri, 20 May 2016 20:47:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
