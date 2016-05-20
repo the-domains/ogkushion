@@ -1,0 +1,28 @@
+name: OGKUSHION
+favicon: null
+layout_spectrum: 0.9011690546758473
+typography_spectrum: 0.16079312260262668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.14486991497687995
+  lightness: 0.9952247983310372
+  saturation: 0.9285533542279154
+  rhythmicContrast: 0.9057192599866539
+purpose: []
